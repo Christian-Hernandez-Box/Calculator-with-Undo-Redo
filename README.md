@@ -47,4 +47,3 @@ Build a command-line calculator that performs basic arithmetic operations with f
 ### Documentation
 - [ ] Time complexity documented for each stack operation
 - [ ] Space complexity documented for undo/redo system
-- [ ] Learning journal entry reflecting on stack usage and trade-offs
